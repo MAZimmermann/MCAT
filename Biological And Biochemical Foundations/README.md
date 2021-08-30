@@ -24,11 +24,11 @@ Organic Chemistry (5%)
 
 **Foundational Concepts**
 
-Foundational Concept 1 (55%)
+Foundational Concept **1 (55%)**: Biomolecules have unique properties that determine how they contribute to the structure and function of cells and how they participate in the processes necessary to maintain life.
 
-Foundational Concept 2 (20%)
+Foundational Concept **2 (20%)**: Highly organized assemblies of molecules, cells, and organs interact to carry out the functions of living organisms.
 
-Foundational Concept 3 (25%)
+Foundational Concept **3 (25%)**: Complex systems of tissues and organs sense the internal and external environments of multicellular organisms, and through integrated functioning, maintain a stable internal environment within an ever-changing external environment.
 
 
 
