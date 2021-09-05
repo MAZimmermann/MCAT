@@ -1,5 +1,5 @@
-This page will change.
+This repository is Marcus' way of understanding the layout and content of the MCAT...
 
 
 
-I will change.
+Sections have foundational concepts, foundational concepts have content categories, and content categories test scientific reasoning and inquiry skills...
