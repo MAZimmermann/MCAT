@@ -44,10 +44,6 @@ Skill 4 (10%)
 
 
 
-**Table of Contents**
-
-[TOC]
-
 # Foundational Concept 4
 
 
