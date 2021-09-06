@@ -377,4 +377,255 @@ Skill 4 (10%)
 
 
 
-...
+# Foundational Concept 8
+
+
+
+## Self-identity (**8A**)
+
+
+
+### Self-Concept, Self-identity, and Social Identity (PSY, SOC)
+
+- The role of self-esteem, self-efficacy, and locus of control in self-concept and self-identity (PSY)
+- Different types of identities (e.g., race/ethnicity, gender, age, sexual orientation, class
+
+### Formation of Identity (PSY, SOC)
+
+- Theories of identity development (e.g., gender, moral, psychosexual, social)
+- Influence of social factors on identity formation
+  - Influence of individuals (e.g., imitation, looking-glass self, role-taking)
+  - Influence of groups (e.g., reference group)
+- Influence of culture and socialization on identity formation
+
+
+
+## Social thinking (**8B**)
+
+
+
+### Attributing Behavior to Persons or Situations (PSY)
+
+- Attributional processes (e.g., fundamental attribution error, role of culture in attributions)
+- How self-perceptions shape our perceptions of others
+- How perceptions of the environment shape our perceptions of others
+
+### Prejudice and Bias (PSY, SOC)
+
+- Processes that contribute to prejudice
+  - Power, prestige, and class (SOC)
+  - The role of emotion in prejudice (PSY)
+  - The role of cognition in prejudice (PSY)
+- Stereotypes
+- Stigma (SOC)
+- Ethnocentrism (SOC)
+  - Ethnocentrism vs. cultural relativism
+
+### Processes Related to Stereotypes (PSY)
+
+- Self-fulfilling prophecy
+- Stereotype threat
+
+
+
+## Social interactions (**8C**)
+
+
+
+### Elements of Social Interaction (PSY, SOC)
+
+- Status (SOC)
+  - Types of status (e.g., achieved, ascribed)
+- Role
+  - Role conflict and role strain (SOC)
+  - Role exit (SOC)
+- Groups
+  - Primary and secondary groups (SOC)
+  - In-group vs. out-group
+  - Group size (e.g., dyads, triads) (SOC)
+- Networks (SOC)
+- Organizations (SOC)
+  - Formal organization
+  - Bureaucracy
+    - Characteristics of an ideal bureaucracy
+    - Perspectives on bureaucracy (e.g., iron law of oligarchy, McDonaldization)
+
+### Self-presentation and Interacting with Others (PSY, SOC)
+
+- Expressing and detecting emotion
+  - The role of gender in the expression and detection of emotion
+  - The role of culture in the expression and detection of emotion
+- Presentation of self
+  - Impression management
+  - Front stage vs. back stage self (Dramaturgical approach) (SOC)
+- Verbal and nonverbal communication
+- Animal signals and communication (PSY, BIO)
+
+### Social Behavior (PSY)
+
+- Attraction
+- Aggression
+- Attachment
+- Altruism
+- Social support (PSY, SOC)
+- Biological explanations of social behavior in animals (PSY, BIO)
+  - Foraging behavior (BIO)
+  - Mating behavior and mate choice
+  - Applying game theory (BIO)
+  - Altruism
+  - Inclusive fitness (BIO)
+
+### Discrimination (PSY, SOC)
+
+- Individual vs. institutional discrimination (SOC)
+- The relationship between prejudice and discrimination
+- How power, prestige, and class facilitate discrimination (SOC)
+
+
+
+# Foundational Concept 9
+
+
+
+## Understanding social structure (**9A**)
+
+
+
+### Theoretical Approaches (SOC)
+
+- Microsociology vs. macrosociology
+- Functionalism
+- Conflict theory
+- Symbolic interactionism
+- Social constructionism
+- Exchange-rational choice
+- Feminist theory
+
+### Social Institutions (SOC)
+
+- Education
+  - Hidden curriculum
+  - Teacher expectancy
+  - Educational segregation and stratification
+- Family (PSY, SOC)
+  - Forms of kinship (SOC)
+  - Diversity in family forms
+  - Marriage and divorce
+  - Violence in the family (e.g., child abuse, elder abuse, spousal abuse) (SOC)
+- Religion
+  - Religiosity
+  - Types of religious organizations (e.g., churches, sects, cults)
+  - Religion and social change (e.g., modernization, secularization, fundamentalism)
+- Government and economy
+  - Power and authority
+  - Comparative economic and political systems
+  - Division of labor
+- Health and medicine
+  - Medicalization
+  - The sick role
+  - Delivery of health care
+  - Illness experience
+  - Social epidemiology
+
+### Culture (PSY, SOC)
+
+- Elements of culture (e.g., beliefs, language, rituals, symbols, values)
+- Material vs. symbolic culture (SOC)
+- Culture lag (SOC)
+- Culture shock (SOC)
+- Assimilation (SOC)
+- Multiculturalism (SOC)
+- Subcultures and countercultures (SOC)
+- Mass media and popular culture (SOC)
+- Evolution and human culture (PSY, BIO)
+- Transmission and diffusion (SOC)
+
+
+
+## Demographic characteristics and processes (**9B**)
+
+
+
+### Demographic Structure of Society (PSY, SOC)
+
+- Age
+  - Aging and the life course
+  - Age cohorts (SOC)
+  - Social significance of aging
+- Gender
+  - Sex versus gender
+  - The social construction of gender (SOC)
+  - Gender segregation (SOC)
+- Race and ethnicity (SOC)
+  - The social construction of race
+  - Racialization
+  - Racial formation
+- Immigration status (SOC)
+  - Patterns of immigration
+  - Intersections with race and ethnicity
+- Sexual orientation
+
+### Demographic Shifts and Social Change (SOC)
+
+- Theories of demographic change (i.e., Malthusian theory and demographic transition)
+- Population growth and decline (e.g., population projections, population pyramids)
+- Fertility, migration, and mortality
+  - Fertility and mortality rates (e.g., total, crude, age-specific)
+  - Patterns in fertility and mortality
+  - Push and pull factors in migration
+- Social movements
+  - Relative deprivation
+  - Organization of social movements
+  - Movement strategies and tactics
+- Globalization
+  - Factors contributing to globalization (e.g., communication technology, economic interdependence)
+  - Perspectives on globalization
+  - Social changes in globalization (e.g., civil unrest, terrorism)
+- Urbanization
+  - Industrialization and urban growth
+  - Suburbanization and urban decline
+  - Gentrification and urban renewal
+
+
+
+# Foundational Concept 10
+
+
+
+## Social inequality (**10A**)
+
+
+
+### Spatial Inequality (SOC)
+
+- Sensation
+  - Residential segregation
+  - Neighborhood safety and violence
+  - Environmental justice (location and exposure to health risks)
+
+### Social Class (SOC)
+
+- Aspects of social stratification
+  - Social class and socioeconomic status
+  - Class consciousness and false consciousness
+  - Cultural capital and social capital
+  - Social reproduction
+  - Power, privilege, and prestige
+  - Intersectionality (e.g., race, gender, age)
+  - Socioeconomic gradient in health
+  - Global inequalities
+- Patterns of social mobility
+  - Intergenerational and intragenerational mobility
+  - Vertical and horizontal mobility
+  - Meritocracy
+- Poverty
+  - Relative and absolute poverty
+  - Social exclusion (segregation and isolation)
+
+### Health Disparities (SOC)
+
+e.g., class, gender, and race inequalities in health.
+
+### Healthcare Disparities (SOC)
+
+e.g., class, gender, and race inequalities in health care.
