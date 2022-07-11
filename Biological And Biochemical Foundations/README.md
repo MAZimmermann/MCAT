@@ -295,30 +295,19 @@ Skill 4 (10%)
 
 - Bioenergetics/thermodynamics
 
-  - Free energy/
-
-    K
-
-    eq
-
-    - Equilibrium constant
+  - Free energy/K<sub>eq</sub>
+  - Equilibrium constant
     - Relationship of the equilibrium constant and Δ*G*°
-
-  - Concentration
-
-    - Le Châtelier’s Principle
-
+- Concentration
+  
+  - Le Châtelier’s Principle
   - Endothermic/exothermic reactions
-
   - Free energy: *G*
-
-  - Spontaneous reactions and Δ*G*°
-
+- Spontaneous reactions and Δ*G*°
 - Phosphoryl group transfers and ATP
 
   - ATP hydrolysis Δ*G* << 0
   - ATP group transfers
-
 - Biological oxidation-reduction
 
   - Half-reactions
