@@ -398,7 +398,7 @@ Skill 4 (10%)
 - General function in cell containment
 - Composition of membranes
   - Lipid components (BIO, BC, OC)
-    - Phospholipids (and phosphatids)
+    - Phospholipids (and phosphatides)
     - Steroids
     - Waxes
   - Protein components
