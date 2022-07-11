@@ -14,9 +14,9 @@ The Psychological, Social, and Biological Foundations of Behavior section emphas
 
 **Disciplines**
 
-Introductory Psychology (65%)
+Introductory Psychology (65%)**
 
-Introductory Sociology (35%)
+Introductory Sociology (30%)
 
 Introductory Biology (5%)
 
@@ -38,13 +38,21 @@ Foundational Concept **10 (5%)**: Social stratification and access to resources 
 
 **Scientific Inquiry and Reasoning Skills**
 
-Skill 1 (35%)
+Skill 1 (Knowledge of Scientific Principles, 35%)
 
-Skill 2 (45%)
+Skill 2 (Scientific Reasoning and Problem-Solving, 45%)
 
-Skill 3 (10%)
+Skill 3 (Reasoning about the Design and Execution of Research, 10%)
 
-Skill 4 (10%)
+Skill 4 (Data-Based Statistical Reasoning, 10%)
+
+
+
+*These percentages have been approximated to the nearest 5% and will vary from one test to another for a variety of reasons. These reasons include, but are not limited to, controlling for question difficulty, using groups of questions that depend on a single passage, and using unscored field-test questions on each test form.
+
+
+
+**Please note that about 5% of this test section will include psychology questions that are biologically relevant. This is in addition to the discipline target of 5% for introductory biology specified for this section.
 
 
 

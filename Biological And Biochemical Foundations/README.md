@@ -34,13 +34,17 @@ Foundational Concept **3 (25%)**: Complex systems of tissues and organs sense th
 
 **Scientific Inquiry and Reasoning Skills**
 
-Skill 1 (35%)
+Skill 1 (Knowledge of Scientific Principles, 35%)
 
-Skill 2 (45%)
+Skill 2 (Scientific Reasoning and Problem-Solving, 45%)
 
-Skill 3 (10%)
+Skill 3 (Reasoning about the Design and Execution of Research, 10%)
 
-Skill 4 (10%)
+Skill 4 (Data-Based Statistical Reasoning, 10%)
+
+
+
+*These percentages have been approximated to the nearest 5% and will vary from one test to another for a variety of reasons. These reasons include, but are not limited to, controlling for question difficulty, using groups of questions that depend on a single passage, and using unscored field-test questions on each test form.
 
 
 
