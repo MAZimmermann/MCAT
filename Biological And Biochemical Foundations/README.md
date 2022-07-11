@@ -670,7 +670,7 @@ Skill 4 (10%)
   - Henry’s Law (GC)
 - pH control
 - Regulation by nervous control
-  - CO2 sensitivity
+  - CO<sub>2</sub> sensitivity
 
 ### **Circulatory System (BIO)**
 
@@ -791,7 +791,8 @@ Skill 4 (10%)
   - Concentration of urine
   - Counter-current multiplier mechanism
 - Storage and elimination: ureter, bladder, urethra
-- Osmoregulation: capillary reabsorption of H2O, amino acids, glucose, ions
+  - Osmoregulation: capillary reabsorption of H<sub>2</sub>O, amino acids, glucose, ions
+
 - Muscular control: sphincter muscle
 
 ### **Reproductive System (BIO)**
