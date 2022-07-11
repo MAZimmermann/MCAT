@@ -52,6 +52,14 @@ Skill 4 (10%)
 
 
 
+### Translational Motion (PHY)
+
+- Units and dimensions
+- Vectors, components
+- Vector addition
+- Speed, velocity (average and instantaneous)
+- Acceleration
+
 ### Force (PHY)
 
 - Newton’s First Law, inertia
@@ -74,10 +82,10 @@ Skill 4 (10%)
 
 ### Energy of Point Object Systems (PHY)
 
-- Kinetic Energy: KE = *½ mv2*; units
+- Kinetic Energy: KE = *½ mv<sup>2</sup>*; units
 - Potential Energy
   - PE = *mgh* (gravitational, local)
-  - PE = *½ kx2* (spring)
+  - PE = *½ kx<sup>2</sup>* (spring)
 - Conservation of energy
 - Power, units
 
@@ -393,8 +401,8 @@ Skill 4 (10%)
   - Role of electronegativity in determining charge distribution
   - Dipole Moment
 - σ and π bonds
-  - Hybrid orbitals: *sp*3, *sp*2, *sp* and respective geometries
-  - Valence shell electron pair repulsion and the prediction of shapes of molecules (e.g., NH3, H2O, CO2)
+  - Hybrid orbitals: *sp*<sup>3</sup>, *sp*<sup>2</sup>, *sp* and respective geometries
+  - Valence shell electron pair repulsion and the prediction of shapes of molecules (e.g., NH<sub>3</sub>, H<sub>2</sub>O, CO<sub>2</sub>)
   - Structural formulas for molecules involving H, C, N, O, F, S, P, Si, Cl
   - Delocalized electrons and resonance in ions and molecules
 - Multiple bonding
@@ -498,7 +506,7 @@ Skill 4 (10%)
     - Triacyl glycerols
     - Free fatty acids: saponification
   - Structural
-    - Phospholipids and phosphatids
+    - Phospholipids and phosphatides
     - Sphingolipids (BC)
     - Waxes
   - Signals/cofactors
@@ -611,7 +619,7 @@ Skill 4 (10%)
 ### Principles of Bioenergetics (BC)
 
 - Bioenergetics/thermodynamics
-  - Free energy/*K*eq
+  - Free energy/*K*<sub>eq</sub>
   - Concentration
 - Phosphorylation/ATP
   - ATP hydrolysis Δ*G* << 0
