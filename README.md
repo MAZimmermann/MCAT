@@ -6,7 +6,9 @@ The README.MD file in each section contains the full list of the relevant founda
 
 
 
-Topic Breakdown:
+---
+
+
 
 **Foundational Concept 1**
 
@@ -32,6 +34,12 @@ Topic Breakdown:
 
 **3B**. Structure and integrative functions of the main organ systems.
 
+
+
+---
+
+
+
 **Foundational Concept 4**
 
 **4A**. Translational motion, forces, work, energy, and equilibrium in living systems.
@@ -55,3 +63,43 @@ Topic Breakdown:
 **5D**. Structure, function, and reactivity of biologically relevant molecules.
 
 **5E**. Principles of chemical thermodynamics and kinetics.
+
+
+
+---
+
+
+
+**Foundational Concept 6**
+
+**6A**. Sensing the environment.
+
+**6B**. Making sense of the environment.
+
+**6C**. Responding to the world.
+
+**Foundational Concept 7**
+
+**7A**. Individual influences on behavior.
+
+**7B**. Social processes the influence human behavior.
+
+**7C**. Attitude and behavior change.
+
+**Foundational Concept 8**
+
+**8A**. Self-identity.
+
+**8B**. Social thinking.
+
+**8C**. Social interactions.
+
+**Foundational Concept 9**
+
+**9A**. Understanding social structure.
+
+**9B**. Demographic characteristics and processes.
+
+**Foundational Concept 10**
+
+**10A**. Social inequality.
